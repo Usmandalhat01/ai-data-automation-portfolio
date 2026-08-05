@@ -12,6 +12,10 @@ I built the projects around operational problems I have worked with: validating 
 
 A FastAPI service for creating, tracking, filtering, updating, and deleting operational jobs. It includes request validation, automated tests, Docker support, Swagger documentation, an architecture diagram, and continuous integration with GitHub Actions.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Usmandalhat01/ai-data-automation-portfolio)
+
+Deployment details and verification steps are available in [DEPLOYMENT.md](DEPLOYMENT.md).
+
 ## Project directory
 
 | Project | What it demonstrates |
