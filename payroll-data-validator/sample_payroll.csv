@@ -1,0 +1,7 @@
+employee_id,full_name,department,salary,status
+KD001,Amina Yusuf,Finance,185000,active
+KD002,Samuel Peter,ICT,210000,active
+KD002,Samuel Peter,ICT,210000,active
+KD004,,Administration,160000,active
+KD005,Fatima Musa,,-500,suspended
+KD006,David John,Audit,195000,on_leave
