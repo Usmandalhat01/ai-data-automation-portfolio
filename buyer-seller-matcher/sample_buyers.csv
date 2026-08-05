@@ -1,0 +1,4 @@
+buyer_id,category,max_unit_price,required_quantity,location
+B001,Rice,52000,20,Kaduna
+B002,Laptops,450000,5,Abuja
+B003,Fertilizer,38000,50,Kano
