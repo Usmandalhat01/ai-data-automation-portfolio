@@ -1,0 +1,5 @@
+seller_id,category,unit_price,available_quantity,location,delivery_available
+S001,Rice,50000,30,Kaduna,yes
+S002,Rice,54000,100,Kano,yes
+S003,Laptops,430000,8,Abuja,no
+S004,Fertilizer,36000,70,Kano,yes
