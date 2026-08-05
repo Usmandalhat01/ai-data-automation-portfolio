@@ -1,0 +1,22 @@
+[
+  {
+    "category": "order-status",
+    "keywords": ["order", "status", "tracking", "delivery"],
+    "answer": "Please provide your order reference. A support agent can then confirm the latest delivery status."
+  },
+  {
+    "category": "payment",
+    "keywords": ["payment", "charged", "refund", "invoice"],
+    "answer": "Payment and refund requests require the transaction reference and payment date. Please have both ready."
+  },
+  {
+    "category": "account-access",
+    "keywords": ["login", "password", "account", "access"],
+    "answer": "Use the password-reset option on the sign-in page. If the reset email does not arrive, the request should be escalated to support."
+  },
+  {
+    "category": "business-hours",
+    "keywords": ["open", "hours", "weekend", "available"],
+    "answer": "Support is available Monday to Friday during normal business hours. Urgent requests can still be logged outside those hours."
+  }
+]
