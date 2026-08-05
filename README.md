@@ -16,6 +16,38 @@ A FastAPI service for creating, tracking, filtering, updating, and deleting oper
 
 Deployment details and verification steps are available in [DEPLOYMENT.md](DEPLOYMENT.md).
 
+## Design previews
+
+The images below are clearly labelled presentation mockups showing how the projects can look when deployed. They are not presented as live production screenshots.
+
+### Operations dashboard
+
+![Operations dashboard design preview](docs/mockups/operations-dashboard.svg)
+
+### Payroll validation report
+
+![Payroll validator design preview](docs/mockups/payroll-validator.svg)
+
+### AWS IAM audit dashboard
+
+![AWS IAM audit design preview](docs/mockups/aws-iam-audit.svg)
+
+### Cybersecurity event monitor
+
+![Cybersecurity dashboard design preview](docs/mockups/cybersecurity-dashboard.svg)
+
+### Customer support assistant
+
+![Customer support assistant design preview](docs/mockups/customer-support-assistant.svg)
+
+### API documentation
+
+![API documentation design preview](docs/mockups/api-documentation.svg)
+
+### ETL pipeline overview
+
+![ETL pipeline design preview](docs/mockups/etl-pipeline.svg)
+
 ## Project directory
 
 | Project | What it demonstrates |
@@ -78,7 +110,7 @@ uvicorn app.main:app --reload
 
 ## Notes
 
-The sample data is fictional and included only for demonstration. The projects are intentionally straightforward so the logic can be reviewed, tested, and extended easily.
+The sample data is fictional and included only for demonstration. The design previews are presentation mockups and are explicitly labelled as such. The projects are intentionally straightforward so the logic can be reviewed, tested, and extended easily.
 
 ## Author
 
