@@ -1,0 +1,7 @@
+date,customer,region,product,quantity,unit_price,status
+2026-07-01,Amina Stores,Kaduna,Rice,15,52000,completed
+2026-07-03,Northlink Ltd,Abuja,Laptops,3,430000,completed
+2026-07-05,Green Farms,Kano,Fertilizer,40,36000,pending
+2026-07-08,City Mart,Kaduna,Rice,10,51500,completed
+2026-07-11,Prime Tech,Abuja,Monitors,8,180000,cancelled
+2026-07-15,Harvest Hub,Kano,Fertilizer,25,36500,completed
