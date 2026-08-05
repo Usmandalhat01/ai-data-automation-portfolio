@@ -1,0 +1,4 @@
+user_name,mfa_enabled,access_key_created,password_last_used,attached_policies
+admin-user,false,2025-01-10T10:00:00Z,2025-11-01T12:00:00Z,AdministratorAccess
+analyst,true,2026-06-01T09:00:00Z,2026-07-20T08:30:00Z,ReadOnlyAccess
+legacy-user,false,2024-05-12T14:00:00Z,2024-08-15T11:00:00Z,IAMUserChangePassword
