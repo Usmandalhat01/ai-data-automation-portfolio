@@ -1,0 +1,6 @@
+2026-07-20 08:15:02 failed login for user admin from 10.0.0.12
+2026-07-20 08:16:44 multiple failed logins detected from 10.0.0.12
+2026-07-20 09:20:11 successful login for user analyst
+2026-07-20 11:04:32 port scan detected from 172.16.2.4
+2026-07-20 12:45:27 unauthorized access attempt on payroll database
+2026-07-20 14:10:08 malware signature detected in uploaded attachment
