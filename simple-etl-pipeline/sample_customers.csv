@@ -1,0 +1,7 @@
+record_id,customer_name,email,amount,status
+1,amina yusuf,AMINA@example.com,150000,Active
+2, samuel peter ,samuel@example.com,220000,ACTIVE
+2,Samuel Peter,samuel@example.com,225000,active
+3,Fatima Musa,fatima.example.com,175000,pending
+4,David John,david@example.com,-5000,active
+5,Mary James,mary@example.com,310000,completed
